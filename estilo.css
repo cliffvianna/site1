@@ -1,0 +1,25 @@
+
+body{
+    background-color: bisque;
+}
+
+h2 {
+font-size: 16px;
+color: green
+}
+
+p{
+    font-size: 14px;
+    color: purple;
+}
+
+#paragrafo{
+    font-size: 11px;
+    color: #8888;
+
+}
+
+#paragrafo2{
+    font-size: 11px;
+    color: #8888;
+}
